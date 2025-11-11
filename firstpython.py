@@ -1,2 +1,2 @@
-# My first GitHub test file
-print("Hello from GitHub!")
+# Updated GitHub test
+print("Hello again from GitHub, Tanja!")
